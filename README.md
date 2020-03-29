@@ -24,7 +24,7 @@ python3
 - Make index.php and style.css as a front end of search engine
 
 # Result
-S1.PNG
+![Screenshot](S1.png)
+![Screenshot](S2.png)
 
-S2.PNG
 
