@@ -1,7 +1,7 @@
 # Web-Search-Engine
 create a simple web search engine 
 
-#Requirement :
+# Requirement :
 python3
 - Download link : https://www.python.org/downloads/
 - Installation : https://www.python.org/about/gettingstarted/
@@ -24,6 +24,7 @@ python3
 - Make index.php and style.css as a front end of search engine
 
 # Result
+S1.PNG
 
-
+S2.PNG
 
