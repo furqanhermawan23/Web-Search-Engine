@@ -1,0 +1,34 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.content {
+    color: white;
+    margin-right: 200px;
+    display: block;
+    /* or inline-block */
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 3.6em;
+    line-height: 1.8em;
+}
+
+.link {
+    color: #0025f8;
+    font-size: large;
+    text-decoration: none;
+
+}
+
+.link:hover {
+    color: #3dc0c9;
+    text-decoration: none;
+}
+
+.url-link {
+    color: #2ba763;
+}
